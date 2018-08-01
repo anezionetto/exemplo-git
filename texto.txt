@@ -1,0 +1,10 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç FAFA-F0E2
+
+ Pasta de C:\Users\20151148060056\Desktop\git
+
+01/08/2018  13:36    <DIR>          .
+01/08/2018  13:36    <DIR>          ..
+01/08/2018  13:36                 0 texto.txt
+               1 arquivo(s)              0 bytes
+               2 pasta(s)   748.572.893.184 bytes dispon°veis
